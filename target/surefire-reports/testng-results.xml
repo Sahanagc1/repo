@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-05T19:41:13 IST" name="Suite" finished-at="2024-06-05T19:42:06 IST" duration-ms="52362">
+    <groups>
+    </groups>
+    <test started-at="2024-06-05T19:41:13 IST" name="Test" finished-at="2024-06-05T19:42:06 IST" duration-ms="52362">
+      <class name="scenarios.HandlingChkBoxAndRadButtons">
+        <test-method signature="chkAndRadBtns()[pri:0, instance:scenarios.HandlingChkBoxAndRadButtons@433d61fb]" started-at="2024-06-05T19:41:48 IST" name="chkAndRadBtns" finished-at="2024-06-05T19:42:06 IST" duration-ms="17949" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chkAndRadBtns -->
+      </class> <!-- scenarios.HandlingChkBoxAndRadButtons -->
+      <class name="scenarios.MouseHover">
+        <test-method signature="dragAndDrop()[pri:0, instance:scenarios.MouseHover@4b5a5ed1]" started-at="2024-06-05T19:41:13 IST" name="dragAndDrop" finished-at="2024-06-05T19:41:25 IST" duration-ms="11574" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dragAndDrop -->
+      </class> <!-- scenarios.MouseHover -->
+      <class name="scenarios.SwitchingWindows">
+        <test-method signature="switchWin()[pri:0, instance:scenarios.SwitchingWindows@5cee5251]" started-at="2024-06-05T19:41:30 IST" name="switchWin" finished-at="2024-06-05T19:41:48 IST" duration-ms="17215" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- switchWin -->
+      </class> <!-- scenarios.SwitchingWindows -->
+      <class name="scenarios.DynData">
+        <test-method signature="CalcAdd()[pri:0, instance:scenarios.DynData@7adda9cc]" started-at="2024-06-05T19:41:25 IST" name="CalcAdd" finished-at="2024-06-05T19:41:30 IST" duration-ms="5556" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CalcAdd -->
+      </class> <!-- scenarios.DynData -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
