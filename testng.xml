@@ -7,6 +7,8 @@
       <class name="scenarios.DynData"/>
       <class name="scenarios.SwitchingWindows"/>
       <class name="scenarios.HandlingChkBoxAndRadButtons"/>
+       <class name="scenarios.Test"/>
+      
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
